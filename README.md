@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amanullah</h1>
 <h3 align="center">Full-Stack Developer: Bridging the Gap Between Design and Functionality</h3>
-<img src="https://panaceadirect.com/wp-content/uploads/2021/12/male.png">
+<img src="https://panaceadirect.com/wp-content/uploads/2021/12/male.png" alt="shaikh amanullah" height="200" width="200">
 
 - 🔭 I’m currently working on Ecomerce project **Ecomerce website**
 
 - 🌱 I’m currently learning **Next.js TypeScript**
 
-- 👯 I’m looking to collaborate on **any project tthat involes my stack**
+- 👯 I’m looking to collaborate on **any project that involes my stack**
 
 - 💬 Ask me about **React Javascript CSS Frame work any of your query**
 

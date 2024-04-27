@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanullah</h1>
 <h3 align="center">Full-Stack Developer: Bridging the Gap Between Design and Functionality</h3>
-<img src="https://panaceadirect.com/wp-content/uploads/2021/12/male.png" alt="shaikh amanullah" height="200" width="200">
 
 - 🔭 I’m currently working on Ecomerce project **Ecomerce website**
 
